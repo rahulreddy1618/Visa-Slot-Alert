@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ddc3b191-aaed-4dfe-80ff-92d9360a617f",
+    "country": "USA",
+    "city": "New York",
+    "visaType": "Tourist",
+    "status": "Booked",
+    "createdAt": "2026-01-29T17:43:52.565Z"
+  },
+  {
+    "id": "30252209-245b-4e63-951f-3abef3439a73",
+    "country": "INDIA",
+    "city": "hyd",
+    "visaType": "Student",
+    "status": "Active",
+    "createdAt": "2026-01-30T04:31:45.703Z"
+  }
+]
